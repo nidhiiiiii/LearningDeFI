@@ -1,8 +1,5 @@
 # LearntDeFI
 Here im sharing what i learnt about defi ,farm yielding, liquidity , DEX .
-# WEB3
-
-[https://dashboard.alchemy.com/composer](https://dashboard.alchemy.com/composer)
 
 - DeFi owes its existence to the launch of the Ethereum blockchain in 2015 and the rise of smart contracts.
 - Some DeFi protocols, such as MakerDAO, were in development as early as 2014.

@@ -1,4 +1,4 @@
-# LearntDeFI
+# LearningDeFI
 Here im sharing what i learnt about defi ,farm yielding, liquidity , DEX .
 FROM WHERE IM LEARNING : https://www.blockchain.com/learning-portal/defi-basics , DECRYPT.io, ALCHEMY.
 - DeFi owes its existence to the launch of the Ethereum blockchain in 2015 and the rise of smart contracts.
